@@ -22,7 +22,7 @@ while i<1:
     else:
         print("Las asignaturas agregadas son: ", lst, "\n Gracias")
         break
-        
+#Gracias
 
 
 
