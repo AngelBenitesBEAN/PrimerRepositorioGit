@@ -1,0 +1,75 @@
+Date: 18/2/2024
+Time: 18:43
+Phone Number: +51973196845
+Message: El producto aun no fue enviado
+--------------------
+Date: 18/2/2024
+Time: 19:17
+Phone Number: +51973196845
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)]
+--------------------
+Date: 18/2/2024
+Time: 19:19
+Phone Number: +51973196845
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)] aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 19:24
+Phone Number: +51922304900
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)] aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 19:31
+Phone Number: +51922304900
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)] aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 19:36
+Phone Number: +51922304900
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)] aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 19:37
+Phone Number: +51922304900
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)] aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 19:38
+Phone Number: +51922304900
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)] aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 22:28
+Phone Number: +51922304900
+Message: Los clientes [('Sebastian Cabro',), ('Dhiago',)] aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 22:30
+Phone Number: +51922304900
+Message: Los clientes ('Dhiago',) aun no reciben su pedido, realiza un seguimiento
+--------------------
+Date: 18/2/2024
+Time: 22:42
+Phone Number: +51973196845
+Message: El cliente('Sebastian Cabro',)
+--------------------
+Date: 18/2/2024
+Time: 22:43
+Phone Number: +51973196845
+Message: El cliente('Sebastian Cabro',)
+--------------------
+Date: 18/2/2024
+Time: 22:44
+Phone Number: +51922304900
+Message: El cliente('Sebastian Cabro',)
+--------------------
+Date: 18/2/2024
+Time: 23:6
+Phone Number: +51922304900
+Message: Los clientes Sebastian cabro, Dhiago, aun no reciben
+--------------------
+Date: 18/2/2024
+Time: 23:9
+Phone Number: +51922304900
+Message: Los clientes Sebastian cabro, Dhiago, aun no reciben
+--------------------
